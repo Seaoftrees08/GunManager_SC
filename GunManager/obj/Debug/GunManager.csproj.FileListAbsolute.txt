@@ -1,0 +1,9 @@
+C:\Users\Sea of trees\Documents\Visual Studio 2015\Projects\GunManager\GunManager\bin\Debug\GunManager.exe.config
+C:\Users\Sea of trees\Documents\Visual Studio 2015\Projects\GunManager\GunManager\bin\Debug\GunManager.exe
+C:\Users\Sea of trees\Documents\Visual Studio 2015\Projects\GunManager\GunManager\bin\Debug\GunManager.pdb
+C:\Users\Sea of trees\Documents\Visual Studio 2015\Projects\GunManager\GunManager\obj\Debug\GunManager.csprojResolveAssemblyReference.cache
+C:\Users\Sea of trees\Documents\Visual Studio 2015\Projects\GunManager\GunManager\obj\Debug\GunManager.Form1.resources
+C:\Users\Sea of trees\Documents\Visual Studio 2015\Projects\GunManager\GunManager\obj\Debug\GunManager.Properties.Resources.resources
+C:\Users\Sea of trees\Documents\Visual Studio 2015\Projects\GunManager\GunManager\obj\Debug\GunManager.csproj.GenerateResource.Cache
+C:\Users\Sea of trees\Documents\Visual Studio 2015\Projects\GunManager\GunManager\obj\Debug\GunManager.exe
+C:\Users\Sea of trees\Documents\Visual Studio 2015\Projects\GunManager\GunManager\obj\Debug\GunManager.pdb
